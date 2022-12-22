@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>The Open Universe</title>
+<link>https://theopenuniverse.org/</link>
+<description>
+    The Open Universe &#8212; an unbounded journey through the archives of astronomy. Hosted by Sownak Bose and Ana Bonaca.
+</description>
+<language>en</language>
+
+<itunes:author>Sownak Bose and Ana Bonaca</itunes:author>
+<itunes:owner>
+<itunes:email>theopenuniversepodcast@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:type>episodic</itunes:type>
+<itunes:image href="https://theopenuniverse.org/img/circle_large.png" />
+
+<itunes:category text="Science">
+  <itunes:category text="Astronomy" />
+</itunes:category>
+<itunes:category text="Science">
+  <itunes:category text="Natural Sciences" />
+</itunes:category>
+<itunes:category text="Education">
+  <itunes:category text="Courses" />
+</itunes:category>
+
+<item>
+<guid>https://theopenuniverse.org/episodes/theopenuniverse_ep2.mp3</guid>
+<itunes:title>Episode 2: The ultimate fate of the Universe</itunes:title>
+<itunes:summary>Our universe appears to be an ever-expanding, or an open universe. Join us on a journey into the future to discover what this means for all the planets, stars, and galaxies</itunes:summary>
+<pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+<itunes:order>2</itunes:order>
+<itunes:episode>2</itunes:episode>
+<itunes:duration>3371</itunes:duration>
+<enclosure url="https://theopenuniverse.org/episodes/theopenuniverse_ep2.mp3" type="audio/mpeg" length="43650218" />
+</item>
+
+<item>
+<guid>https://theopenuniverse.org/episodes/theopenuniverse_ep1.mp3</guid>
+<itunes:title>Episode 1: Can seismic activity on stars help us discover the next Earth?</itunes:title>
+<itunes:summary>Discovering small planets like the Earth orbiting other stars like the Sun is hard, but blobs of gas surfacing from stellar interiors can help</itunes:summary>
+<pubDate>Fri, 8 Jan 2021 00:00:00 +0000</pubDate>
+<itunes:order>1</itunes:order>
+<itunes:episode>1</itunes:episode>
+<itunes:duration>2434</itunes:duration>
+<enclosure url="https://theopenuniverse.org/episodes/theopenuniverse_ep1.mp3" type="audio/mpeg" length="31905598" />
+</item>
+
+</channel>
+</rss>

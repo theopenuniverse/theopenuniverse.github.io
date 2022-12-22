@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+
+<episode>
+<date>2021/01/22</date>
+<title>The ultimate fate of the Universe</title>
+<description>Our universe appears to be an ever-expanding, or an open universe. Join us on a journey into the future to discover what this means for all the planets, stars, and galaxies</description>
+<paper_title>Possible Ultimate Fate of the Universe</paper_title>
+<author>Jamal Islam</author>
+<author_web>https://en.wikipedia.org/wiki/Jamal_Nazrul_Islam</author_web>
+<download>https://drive.google.com/uc?id=1RSSsUbrR5iU0OLByCyhaldeY5V4tnDKs</download>
+<arxiv>http://articles.adsabs.harvard.edu/pdf/1977QJRAS..18....3I</arxiv>
+<related>
+    <item>
+        <item_text>Other possible fates of the universe</item_text>
+        <item_link>https://en.wikipedia.org/wiki/Ultimate_fate_of_the_universe</item_link>
+    </item>
+    <item>
+        <item_text>Fates of the universe animated</item_text>
+        <item_link>http://ircamera.as.arizona.edu/NatSci102/NatSci102/lectures/fateuniverse.htm</item_link>
+    </item>
+    <item>
+        <item_text>The legacy of Jamal Nazrul Islam</item_text>
+        <item_link>https://www.thedailystar.net/opinion/tribute/remembering-professor-jamal-nazrul-islam-1557064</item_link>
+    </item>
+</related>
+</episode>
+    
+<episode>
+<date>2021/01/08</date>
+<title>Can seismic activity on stars help us discover the next Earth?</title>
+<description>Discovering small planets like the Earth orbiting other stars like the Sun is hard, but blobs of gas surfacing from stellar interiors can help</description>
+<paper_title>An observational correlation between stellar brightness variations and surface gravity</paper_title>
+<author>Fabienne Bastien</author>
+<author_web>http://personal.psu.edu/fxb21/</author_web>
+<download>https://drive.google.com/uc?id=13jSxuoPMWZMknnIm35HfbGJ0MCgX2gpl</download>
+<arxiv>https://arxiv.org/abs/1308.4728</arxiv>
+<related>
+    <item>
+        <item_text>Surface of the Sun</item_text>
+        <item_link>https://www.youtube.com/watch?v=4nieF-e0OOs</item_link>
+    </item>
+    <item>
+        <item_text>Kepler mission</item_text>
+        <item_link>https://www.nasa.gov/mission_pages/kepler/overview/index.html</item_link>
+    </item>
+    <item>
+        <item_text>TESS mission</item_text>
+        <item_link>https://exoplanets.nasa.gov/tess/</item_link>
+    </item>
+</related>
+</episode>
+
+
+</catalog>
