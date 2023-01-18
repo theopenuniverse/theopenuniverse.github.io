@@ -2,13 +2,65 @@
 <catalog>
 
 <episode>
-<date>2021/01/22</date>
+<date>2020/10/19</date>
+<title>The final voyage in the life of a star</title>
+<description>Relive the story of Subrahmanyan Chandrasekhar who, as a 19-year old, came to a remarkable realization on board a ship journeying to start his physics scholarship in England. This discovery would lead to a bitter spat with one of the most eminent luminaries in the world of astronomy, and eventually reveal an astonishing feature of time and space – the existence of black holes.</description>
+<paper_title>The Maximum Mass of Ideal White Dwarfs</paper_title>
+<author>Subrahmanyan Chandrasekhar</author>
+<author_web>https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar</author_web>
+<download>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep4.mp3</download>
+<arxiv>https://articles.adsabs.harvard.edu/pdf/1931ApJ....74...81C</arxiv>
+<related>
+    <item>
+        <item_text>The Last Light Before Eternal Darkness</item_text>
+        <item_link>https://www.youtube.com/watch?v=qsN1LglrX9s</item_link>
+    </item>
+    <item>
+        <item_text>Chandrasekhar vs Eddington</item_text>
+        <item_link>https://physicstoday.scitation.org/doi/pdf/10.1063/1.2914790</item_link>
+    </item>
+    <item>
+        <item_text>American Institute of Physics Interview</item_text>
+       <item_link>https://www.aip.org/history-programs/niels-bohr-library/oral-histories/4552</item_link>
+    </item>
+</related>
+</episode>
+
+    
+<episode>
+<date>2020/08/28</date>
+<title>How did a 1912 circular open up our Universe?</title>
+<description>The vastness of space was unfathomable until a pioneer of "Big Data" found a regularity in the way some stars change brightness, a discovery which has ever since allowed us to precisely measure distances to stars throughout the Milky Way and beyond</description>
+<paper_title>Periods of 25 Variable Stars in the Small Magellanic Cloud.</paper_title>
+<author>Henrietta Leavitt</author>
+<author_web>https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt</author_web>
+<download>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep3.mp3</download>
+<arxiv>http://articles.adsabs.harvard.edu/pdf/1912HarCi.173....1L</arxiv>
+<related>
+    <item>
+        <item_text>Harvard computers</item_text>
+        <item_link>https://www.nature.com/articles/455036a.pdf</item_link>
+    </item>
+    <item>
+        <item_text>Astronomical photographic plates</item_text>
+        <item_link>https://platestacks.cfa.harvard.edu/</item_link>
+    </item>
+    <item>
+        <item_text>American Association of Variable Star Observers</item_text>
+        <item_link>https://www.aavso.org/</item_link>
+    </item>
+</related>
+</episode>
+    
+
+<episode>
+<date>2020/07/22</date>
 <title>The ultimate fate of the Universe</title>
 <description>Our universe appears to be an ever-expanding, or an open universe. Join us on a journey into the future to discover what this means for all the planets, stars, and galaxies</description>
 <paper_title>Possible Ultimate Fate of the Universe</paper_title>
 <author>Jamal Islam</author>
 <author_web>https://en.wikipedia.org/wiki/Jamal_Nazrul_Islam</author_web>
-<download>https://drive.google.com/uc?id=1RSSsUbrR5iU0OLByCyhaldeY5V4tnDKs</download>
+<download>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep2.mp3</download>
 <arxiv>http://articles.adsabs.harvard.edu/pdf/1977QJRAS..18....3I</arxiv>
 <related>
     <item>
@@ -25,15 +77,16 @@
     </item>
 </related>
 </episode>
-    
+ 
+
 <episode>
-<date>2021/01/08</date>
+<date>2020/06/08</date>
 <title>Can seismic activity on stars help us discover the next Earth?</title>
 <description>Discovering small planets like the Earth orbiting other stars like the Sun is hard, but blobs of gas surfacing from stellar interiors can help</description>
 <paper_title>An observational correlation between stellar brightness variations and surface gravity</paper_title>
 <author>Fabienne Bastien</author>
 <author_web>http://personal.psu.edu/fxb21/</author_web>
-<download>https://drive.google.com/uc?id=13jSxuoPMWZMknnIm35HfbGJ0MCgX2gpl</download>
+<download>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep1.mp3</download>
 <arxiv>https://arxiv.org/abs/1308.4728</arxiv>
 <related>
     <item>
