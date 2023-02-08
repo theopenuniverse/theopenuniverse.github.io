@@ -13,7 +13,7 @@
 <itunes:email>theopenuniversepodcast@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:type>episodic</itunes:type>
-<itunes:image href="https://theopenuniverse.org/img/circle_large.png" />
+<itunes:image href="https://theopenuniverse.org/img/tou_logo_circle_text.jpg" />
 
 <itunes:category text="Science">
   <itunes:category text="Astronomy" />
@@ -51,7 +51,7 @@
 <guid>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep2.mp3</guid>
 <itunes:title>Episode 2: The ultimate fate of the Universe</itunes:title>
 <itunes:summary>Our universe appears to be an ever-expanding, or an open universe. Join us on a journey into the future to discover what this means for all the planets, stars, and galaxies</itunes:summary>
-<pubDate>Fri, 22 Jul 2020 00:00:00 +0000</pubDate>
+<pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
 <itunes:order>2</itunes:order>
 <itunes:episode>2</itunes:episode>
 <itunes:duration>3371</itunes:duration>
