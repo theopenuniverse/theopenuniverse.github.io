@@ -41,7 +41,7 @@
 <guid>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep3.mp3</guid>
 <itunes:title>Episode 3: How did a 1912 circular open up our Universe?</itunes:title>
 <title>Episode 3: How did a 1912 circular open up our Universe?</title>
-<itunes:summary>The vastness of space was unfathomable until a pioneer of "Big Data" found a regularity in the way some stars change brightness, a discovery which has ever since allowed us to precisely measure distances to stars throughout the Milky Way and beyond</itunes:summary>
+<itunes:summary>The vastness of space was unfathomable until a pioneer of "Big Data" found a regularity in the way some stars change brightness, a discovery which has ever since allowed us to precisely measure distances to stars throughout the Milky Way and beyond.</itunes:summary>
 <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
 <itunes:order>3</itunes:order>
 <itunes:episode>3</itunes:episode>
@@ -53,7 +53,7 @@
 <guid>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep2.mp3</guid>
 <itunes:title>Episode 2: The ultimate fate of the Universe</itunes:title>
 <title>Episode 2: The ultimate fate of the Universe</title>
-<itunes:summary>Our universe appears to be an ever-expanding, or an open universe. Join us on a journey into the future to discover what this means for all the planets, stars, and galaxies</itunes:summary>
+<itunes:summary>Our universe appears to be an ever-expanding, or an open universe. Join us on a journey into the future to discover what this means for all the planets, stars, and galaxies.</itunes:summary>
 <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
 <itunes:order>2</itunes:order>
 <itunes:episode>2</itunes:episode>
@@ -65,12 +65,24 @@
 <guid>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep1.mp3</guid>
 <itunes:title>Episode 1: Can seismic activity on stars help us discover the next Earth?</itunes:title>
 <title>Episode 1: Can seismic activity on stars help us discover the next Earth?</title>
-<itunes:summary>Discovering small planets like the Earth orbiting other stars like the Sun is hard, but blobs of gas surfacing from stellar interiors can help</itunes:summary>
+<itunes:summary>Discovering small planets like the Earth orbiting other stars like the Sun is hard, but blobs of gas surfacing from stellar interiors can help.</itunes:summary>
 <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
 <itunes:order>1</itunes:order>
 <itunes:episode>1</itunes:episode>
 <itunes:duration>2434</itunes:duration>
 <enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep1.mp3" type="audio/mpeg" length="31905598" />
+</item>
+    
+<item>
+<guid>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep0.mp3</guid>
+<itunes:title>Episode 0: What's all this about?</itunes:title>
+<title>Episode 0: What's all this about??</title>
+<itunes:summary>We hit our mid-life crises early and started a podcast about astronomy.</itunes:summary>
+<pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+<itunes:order>0</itunes:order>
+<itunes:episode>0</itunes:episode>
+<itunes:duration>2434</itunes:duration>
+<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep0.mp3" type="audio/mpeg" length="31905598" />
 </item>
 
 </channel>
