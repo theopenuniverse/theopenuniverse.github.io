@@ -80,23 +80,6 @@
  
 
 <episode>
-<date>2020/03/09</date>
-<title>What's this all about?</title>
-<description>We hit our mid-life crises early and started a podcast about astronomy.</description>
-<paper_title></paper_title>
-<author></author>
-<author_web>/</author_web>
-<download>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep0.mp3</download>
-<arxiv></arxiv>
-<related>
-    <item>
-        <item_text>n</item_text>
-        <item_link></item_link>
-    </item>
-</related>
-</episode>
-
-<episode>
 <date>2022/06/08</date>
 <title>Can seismic activity on stars help us discover the next Earth?</title>
 <description>Discovering small planets like the Earth orbiting other stars like the Sun is hard, but blobs of gas surfacing from stellar interiors can help</description>
@@ -118,6 +101,15 @@
         <item_text>TESS mission</item_text>
         <item_link>https://exoplanets.nasa.gov/tess/</item_link>
     </item>
+</related>
+</episode>
+    
+<episode>
+<date>2022/03/09</date>
+<title>What's this all about?</title>
+<description>We hit our mid-life crises early and started a podcast about astronomy.</description>
+<download>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep0.mp3</download>
+<related>
 </related>
 </episode>
 
