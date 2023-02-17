@@ -52,8 +52,8 @@
     <a href="https://open.spotify.com/show/6GRHTa64qJPaaReYXmgJ1q?si=fkLK7tfkQEWato7GuzZRtw&dl_branch=1" title="Spotify"><img src="img/spotify.svg" alt="Spotify" class="logo"></a>
     <a href="https://podcasts.apple.com/us/podcast/the-open-universe/id1563465572" title="Apple Podcasts"><img src="img/apple.svg" alt="Apple Podcasts" class="logo"></a>
     <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGVvcGVudW5pdmVyc2Uub3JnL3RvdS5yc3M" title="Google Podcasts"><img src="img/google.svg" alt="Google Podcasts" class="logo"></a>
-    <a href="https://www.stitcher.com/show/1056801" title="Stitcher"><img src="img/stitcher.svg" alt="Stitcher" class="logo"></a>
     <a href="https://music.amazon.co.uk/podcasts/216468aa-5b84-4e09-8432-a8bf6f43eeca/the-open-universe" title="Amazon Music"><img src="img/Amazon_Music_logo.svg" alt="Amazon Music" class="logo"></a>
+    <a href="https://www.stitcher.com/show/1056801" title="Stitcher"><img src="img/stitcher.svg" alt="Stitcher" class="logo"></a>
     <p style="color:#999999; display:inline-block; text-align: center;"> | Follow:</p>
     <a href="https://twitter.com/TheOpenUniverse" title="Twitter"><img src="img/twitter.svg" class="logo" alt="Twitter"></a>
 </div>
@@ -138,45 +138,94 @@ function myFunction(xml) {
   var table="";
   var x = xmlDoc.getElementsByTagName("episode");
   for (i=0; i<x.length; i++) {
-    var xrall = x[i].getElementsByTagName("related");
-    var xr = xrall[0].getElementsByTagName("item");
-    tdr = ""
-    for (k=0; k<xr.length; k++) {
-       tdr += "<p><a href=" + xr[k].getElementsByTagName("item_link")[0].childNodes[0].nodeValue + ">" + xr[k].getElementsByTagName("item_text")[0].childNodes[0].nodeValue + "</a></p>" 
-    }
-    j = x.length - i;
-    
-    fname = x[i].getElementsByTagName("download")[0].childNodes[0].nodeValue;
-    title = x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-    
-    table += "<tr><td><div class=table_left><p>" +
+    j = x.length - i - 1;
+
+    // Left cell
+    var cell_left = "";
+    cell_left += "<div class=table_left><p>" +
     "Episode #" +
     j +
     " [" +
     x[i].getElementsByTagName("date")[0].childNodes[0].nodeValue +
-    "]</p></div><div class=table_center><p class=title>" +
-    x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue +
-    "</p><hr style=\"width:100%; height: 1px; border: 0px; background: #aaa;\"><p>" + 
-    x[i].getElementsByTagName("description")[0].childNodes[0].nodeValue +
-    "</p><p>Based on: <a style=\"font-style:italic;\" href="+
-    x[i].getElementsByTagName("arxiv")[0].childNodes[0].nodeValue +
-    ">'" + 
-    x[i].getElementsByTagName("paper_title")[0].childNodes[0].nodeValue + 
-    "'</a><span class=author><a href="+
-    x[i].getElementsByTagName("author_web")[0].childNodes[0].nodeValue +
-    "> by " +
-    x[i].getElementsByTagName("author")[0].childNodes[0].nodeValue +
-    "</a></span></p></div><div class=table_right><p>RELATED LINKS</p>" +
+    "]</p></div>";
+    
+    // Right cell
+    var cell_right = "";
+    
+    var xrall = x[i].getElementsByTagName("related");
+    var xr = xrall[0].getElementsByTagName("item");
+    var tdr = "";
+    for (k=0; k<xr.length; k++) {
+       tdr += "<p><a href=" + xr[k].getElementsByTagName("item_link")[0].childNodes[0].nodeValue + ">" + xr[k].getElementsByTagName("item_text")[0].childNodes[0].nodeValue + "</a></p>" 
+    }
+    
+    var fname = x[i].getElementsByTagName("download")[0].childNodes[0].nodeValue;
+    var title = x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue;
+    
+    cell_right += "<div class=table_right><p>RELATED LINKS</p>" +
     "<p><a href=\"javascript:startSong('"+ fname + "', '" + title + "', '" + j + "');\">Play</a> | <a href="+ x[i].getElementsByTagName("download")[0].childNodes[0].nodeValue + ">Download</a></p>" + 
     tdr +
-    "</div></td></tr>";
+    "</div>";
+    
+    // Middle cell
+    var cell_middle = "";
+    var paper_text = "";
+    
+    var papers = x[i].getElementsByTagName("papers");
+    if (papers.length>0) {
+        paper_text += "<p>Based on: ";
+        
+        // Individual entries per paper
+        var xp = papers[0].getElementsByTagName("paper");
+        for (k=0; k<xp.length; k++) {
+            var paper_title = xp[k].getElementsByTagName("paper_title")[0].childNodes[0].nodeValue;
+            var paper_link = xp[k].getElementsByTagName("paper_link")[0].childNodes[0].nodeValue;
+            paper_text += "<a style=\"font-style:italic;\" href=" + paper_link + ">'" + paper_title + "'</a> by ";
+            
+            // Individual entries per author
+            var xauhors = xp[0].getElementsByTagName("authors");
+            var xa = xauhors[0].getElementsByTagName("author");
+            for (l=0; l<xa.length; l++) {
+                var author_name = xa[k].getElementsByTagName("author_name")[0].childNodes[0].nodeValue;
+                var author_web = xa[k].getElementsByTagName("author_web")[0].childNodes[0].nodeValue;
+                paper_text += "<span class=author><a href=" + author_web + ">" + author_name + "</a></span>";
+                
+                if (l<xa.length-2) {
+                    paper_text += ", ";
+                } else if (l==xa.length-2) {
+                    paper_text += ", and ";
+                }
+            }
+            
+            if (k<xp.length-2) {
+                paper_text += ", ";
+            } else if (k==xp.length-2) {
+                paper_text += ", and ";
+            }
+        }
+        paper_text += "</p>";
+    }
+    else {
+        paper_text += "";
+    }
+        
+    cell_middle += "<div class=table_center><p class=title>" +
+    title +
+    "</p><hr style=\"width:100%; height: 1px; border: 0px; background: #999;\"><p>" + 
+    x[i].getElementsByTagName("description")[0].childNodes[0].nodeValue +
+    "</p>" +
+    paper_text + 
+    "</div>";
+    
+    // Add full episode row to the table
+    table += "<tr><td>" + cell_left + cell_middle + cell_right + "</td></tr>";
   }
   document.getElementById("episodes").innerHTML = table;
   
   // Load latest episode
   fname = x[0].getElementsByTagName("download")[0].childNodes[0].nodeValue;
   title = x[0].getElementsByTagName("title")[0].childNodes[0].nodeValue;
-  setCurrentSong(fname, title, x.length);
+  setCurrentSong(fname, title, x.length-1);
 }
 
 function setCurrentSong(fname, title, j) {
