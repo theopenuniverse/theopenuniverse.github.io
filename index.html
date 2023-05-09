@@ -183,11 +183,11 @@ function myFunction(xml) {
             paper_text += "<a style=\"font-style:italic;\" href=" + paper_link + ">'" + paper_title + "'</a> by ";
             
             // Individual entries per author
-            var xauhors = xp[0].getElementsByTagName("authors");
+            var xauhors = xp[k].getElementsByTagName("authors");
             var xa = xauhors[0].getElementsByTagName("author");
             for (l=0; l<xa.length; l++) {
-                var author_name = xa[k].getElementsByTagName("author_name")[0].childNodes[0].nodeValue;
-                var author_web = xa[k].getElementsByTagName("author_web")[0].childNodes[0].nodeValue;
+                var author_name = xa[l].getElementsByTagName("author_name")[0].childNodes[0].nodeValue;
+                var author_web = xa[l].getElementsByTagName("author_web")[0].childNodes[0].nodeValue;
                 paper_text += "<span class=author><a href=" + author_web + ">" + author_name + "</a></span>";
                 
                 if (l<xa.length-2) {
