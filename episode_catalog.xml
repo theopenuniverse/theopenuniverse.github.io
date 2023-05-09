@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
 
+
+<episode>
+<date>2023/05/09</date>
+<title>What is that beeping in the night sky?</title>
+<description>For years, astronomers have been puzzled by the mysterious bursts of cosmic radio emission, until recently, two teams identified the origin of these events as extremely magnetic stars -- strong enough to disrupt credit cards on the moon!</description>
+<papers>
+    <paper>
+        <paper_title>A bright millisecond-duration radio burst from a Galactic magnetar</paper_title>
+        <paper_link>https://arxiv.org/abs/2005.10324</paper_link>
+        <authors>
+            <author>
+                <author_name>CHIME/FRB Collaboration</author_name>
+                <author_web>https://www.chime-frb.ca/</author_web>
+            </author>
+        </authors>
+    </paper>
+    <paper>
+        <paper_title>A fast radio burst associated with a Galactic magnetar</paper_title>
+        <paper_link>https://arxiv.org/abs/2005.10828</paper_link>
+        <authors>
+            <author>
+                <author_name>Christopher Bochenek</author_name>
+                <author_web>https://sites.astro.caltech.edu/~cbochenek/</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep5.mp3</download>
+<related>
+    <item>
+        <item_text>The Cosmic Gift of Neutron Stars</item_text>
+        <item_link>https://www.youtube.com/watch?v=6UG9hoeLcHo</item_link>
+    </item>
+    <item>
+        <item_text>Canadian Hydrogen Intensity Mapping Experiment</item_text>
+        <item_link>https://chime-experiment.ca/en</item_link>
+    </item>
+    <item>
+        <item_text>Owens Valley Radio Observatory</item_text>
+       <item_link>https://www.ovro.caltech.edu/</item_link>
+    </item>
+</related>
+</episode>
+
+  
 <episode>
 <date>2022/10/19</date>
 <title>The final voyage in the life of a star</title>
