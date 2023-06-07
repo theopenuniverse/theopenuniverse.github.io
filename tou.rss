@@ -26,6 +26,18 @@
 </itunes:category>
 
 <item>
+<guid>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep5.mp3</guid>
+<itunes:title>Episode 5: What is that beeping in the night sky?</itunes:title>
+<title>Episode 5: What is that beeping in the night sky?</title>
+<itunes:summary>For years, astronomers have been puzzled by the mysterious bursts of cosmic radio emission, until recently, two teams identified the origin of these events as extremely magnetic stars -- strong enough to disrupt credit cards on the moon!</itunes:summary>
+<description>For years, astronomers have been puzzled by the mysterious bursts of cosmic radio emission, until recently, two teams identified the origin of these events as extremely magnetic stars -- strong enough to disrupt credit cards on the moon!</description>
+<pubDate>Tue, 9 May 2023 00:00:00 +0000</pubDate>
+<itunes:episode>5</itunes:episode>
+<itunes:duration>6807</itunes:duration>
+<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep5.mp3" type="audio/mpeg" length="43650218" />
+</item>
+
+<item>
 <guid>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep4.mp3</guid>
 <itunes:title>Episode 4: The final voyage in the life of a star</itunes:title>
 <title>Episode 4: The final voyage in the life of a star</title>
