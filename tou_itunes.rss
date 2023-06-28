@@ -34,7 +34,7 @@
 <itunes:order>5</itunes:order>
 <itunes:episode>5</itunes:episode>
 <itunes:duration>6807</itunes:duration>
-<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep5.mp3" type="audio/mpeg" length="43650218" />
+<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep5.mp3" type="audio/mpeg" length="163511901" />
 </item>
 
 <item>
@@ -46,7 +46,7 @@
 <itunes:order>4</itunes:order>
 <itunes:episode>4</itunes:episode>
 <itunes:duration>3090</itunes:duration>
-<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep4.mp3" type="audio/mpeg" length="43650218" />
+<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep4.mp3" type="audio/mpeg" length="112406904" />
 </item>
 
 <item>
@@ -58,7 +58,7 @@
 <itunes:order>3</itunes:order>
 <itunes:episode>3</itunes:episode>
 <itunes:duration>1975</itunes:duration>
-<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep3.mp3" type="audio/mpeg" length="43650218" />
+<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep3.mp3" type="audio/mpeg" length="31607798" />
 </item>
 
 <item>
@@ -70,7 +70,7 @@
 <itunes:order>2</itunes:order>
 <itunes:episode>2</itunes:episode>
 <itunes:duration>3371</itunes:duration>
-<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep2.mp3" type="audio/mpeg" length="43650218" />
+<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep2.mp3" type="audio/mpeg" length="43186077" />
 </item>
 
 <item>
@@ -82,7 +82,7 @@
 <itunes:order>1</itunes:order>
 <itunes:episode>1</itunes:episode>
 <itunes:duration>2434</itunes:duration>
-<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep1.mp3" type="audio/mpeg" length="31905598" />
+<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep1.mp3" type="audio/mpeg" length="31574658" />
 </item>
     
 <item>
@@ -94,7 +94,7 @@
 <itunes:order>0</itunes:order>
 <itunes:episode>0</itunes:episode>
 <itunes:duration>227</itunes:duration>
-<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep0.mp3" type="audio/mpeg" length="31905598" />
+<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep0.mp3" type="audio/mpeg" length="5522539" />
 </item>
 
 </channel>
