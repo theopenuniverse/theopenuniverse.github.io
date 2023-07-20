@@ -26,6 +26,19 @@
 </itunes:category>
 
 <item>
+<guid>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep6.wav</guid>
+<itunes:title>Episode 6: The most epic journey in the lifetime of a photon</itunes:title>
+<title>Episode 6: The most epic journey in the lifetime of a photon</title>
+<itunes:summary>Photons traveling through spacetime are cosmic messengers carrying with them rich stories of the past history of our cosmos. Find out how an otherwise innocuous observation of distant quasars in 1965 transformed our understanding of the composition of intergalactic space, and the phases of evolution our Universe underwent billions of years ago.</itunes:summary>
+<description>Photons traveling through spacetime are cosmic messengers carrying with them rich stories of the past history of our cosmos. Find out how an otherwise innocuous observation of distant quasars in 1965 transformed our understanding of the composition of intergalactic space, and the phases of evolution our Universe underwent billions of years ago.</description>
+<pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+<itunes:order>6</itunes:order>
+<itunes:episode>6</itunes:episode>
+<itunes:duration>6051</itunes:duration>
+<enclosure url="https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep6.wav" type="audio/wav" length="136036783" />
+</item>
+
+<item>
 <guid>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep5.mp3</guid>
 <itunes:title>Episode 5: What is that beeping in the night sky?</itunes:title>
 <title>Episode 5: What is that beeping in the night sky?</title>
