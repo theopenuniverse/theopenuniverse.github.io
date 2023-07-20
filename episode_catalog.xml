@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
 
+<episode>
+<date>2023/07/20</date>
+<title>The most epic journey in the lifetime of a photon</title>
+<description>Photons traveling through spacetime are cosmic messengers carrying with them rich stories of the past history of our cosmos. Find out how an otherwise innocuous observation of distant quasars in 1965 transformed our understanding of the composition of intergalactic space, and the phases of evolution our Universe underwent billions of years ago.</description>
+<papers>
+    <paper>
+        <paper_title>On the density of neutral hydrogen in intergalactic space</paper_title>
+        <paper_link>ttps://articles.adsabs.harvard.edu/pdf/1965ApJ...142.1633G</paper_link>
+        <authors>
+            <author>
+                <author_name>James E. Gunn</author_name>
+                <author_web>https://dof.princeton.edu/about/clerk-faculty/emeritus/james-edward-gunn</author_web>
+            </author>
+            <author>
+                <author_name>Bruce A. Peterson</author_name>
+                <author_web>https://researchers.anu.edu.au/researchers/peterson-ba</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://tou.obs.carnegiescience.edu/episodes/theopenuniverse_ep6.wav</download>
+<related>
+    <item>
+        <item_text>Visualisation of the Lyman-alpha forest</item_text>
+        <item_link>https://www.youtube.com/watch?v=6Bn7Ka0Tjjw</item_link>
+    </item>
+    <item>
+        <item_text>Reionization - End of the Dark Ages of the Universe</item_text>
+        <item_link>https://www.youtube.com/watch?v=erHGgLFXhVs</item_link>
+    </item>
+</related>
+</episode>
+
+  
 
 <episode>
 <date>2023/05/09</date>
