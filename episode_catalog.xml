@@ -6,10 +6,18 @@
 <date>2023/09/28</date>
 <title>A secret ocean beneath Pluto’s icy volcanoes?</title>
 <description>Volcanic explosions and surface flows on a frozen world?! Join us on board the New Horizons spacecraft on its journey towards the edge of the Solar System as it uncovers a distant world full of geological surprises.</description>
-<paper_title>Large-scale cryovolcanic resurfacing on Pluto</paper_title>
-<author>Kelsi Singer</author>
-<author_web>https://sites.google.com/site/kelsisinger/</author_web>
-<arxiv>https://www.nature.com/articles/s41467-022-29056-3</arxiv>
+<papers>
+    <paper>
+        <paper_title>Large-scale cryovolcanic resurfacing on Pluto</paper_title>
+        <paper_link>https://www.nature.com/articles/s41467-022-29056-3</paper_link>
+        <authors>
+            <author>
+                <author_name>Kelsi Singer</author_name>
+                <author_web>https://sites.google.com/site/kelsisinger/</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
 <download>episodes/theopenuniverse_ep7.mp3</download>
 <related>
     <item>
