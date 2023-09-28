@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
 
+
+<episode>
+<date>2023/09/28</date>
+<title>A secret ocean beneath Pluto’s icy volcanoes?</title>
+<description>Volcanic explosions and surface flows on a frozen world?! Join us on board the New Horizons spacecraft on its journey towards the edge of the Solar System as it uncovers a distant world full of geological surprises.</description>
+<paper_title>Large-scale cryovolcanic resurfacing on Pluto</paper_title>
+<author>Kelsi Singer</author>
+<author_web>https://sites.google.com/site/kelsisinger/</author_web>
+<arxiv>https://www.nature.com/articles/s41467-022-29056-3</arxiv>
+<download>episodes/theopenuniverse_ep7.mp3</download>
+<related>
+    <item>
+        <item_text>New Horizons Mission</item_text>
+        <item_link>http://pluto.jhuapl.edu
+</item_link>
+    </item>
+    <item>
+        <item_text>New Horizons image explorer</item_text>
+        <item_link>https://sbib.psi.edu/data/PDS-Pluto/index.html</item_link>
+    </item>
+    <item>
+        <item_text>Pluto’s cryovolcano</item_text>
+       <item_link>https://www.youtube.com/watch?v=rZc6D8QI5OE</item_link>
+    </item>
+</related>
+</episode>
+
+    
 <episode>
 <date>2023/07/20</date>
 <title>The most epic journey in the lifetime of a photon</title>
