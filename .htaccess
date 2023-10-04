@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^http://theopenuniverse.org/tou.rss https://feeds.libsyn.com/488525/rss/ [L,R=301]
+RewriteRule ^http://theopenuniverse.org/tou_itunes.rss https://feeds.libsyn.com/488525/rss/ [L,R=301]
+</IfModule>
