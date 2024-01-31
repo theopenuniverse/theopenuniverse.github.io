@@ -6,18 +6,14 @@
 <date>2024/02/01</date>
 <title>Fiat Lux: Conversations on science and faith at the Vatican Observatory</title>
 <description>The Open Universe goes on tour to Castel Gandolfo, Italy, home of the Vatican Observatory, where we chat with resident astronomer Richard D'Souza on astronomy, faith, and early efforts to map the Milky Way.</description>
-<papers>
-    <paper>
-        <paper_title>An interview with</paper_title>
-        <paper_link>https://www.vaticanobservatory.va/en/who-are-we/staff/rev-richard-a-dsouza-s-j</paper_link>
-        <authors>
-            <author>
-                <author_name>Richard D’Souza</author_name>
-               <author_web>https://www.vaticanobservatory.va/en/who-are-we/staff/rev-richard-a-dsouza-s-j</author_web>
-            </author>
-        </authors>
-    </paper>
-</papers>
+<interview>
+    <authors>
+        <author>
+            <author_name>Richard D’Souza</author_name>
+            <author_web>https://www.vaticanobservatory.va/en/who-are-we/staff/rev-richard-a-dsouza-s-j</author_web>
+        </author>
+    </authors>
+</interview>
 <download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep8.mp3</download>
 <related>
     <item>

@@ -208,6 +208,35 @@ function myFunction(xml) {
     else {
         paper_text += "";
     }
+    
+    var interview = x[i].getElementsByTagName("interview");
+    if (interview.length>0) {
+        if (interview.length==1) {
+            paper_text += "<p>With a special guest ";
+        }
+        else {
+            paper_text += "<p>With ";
+        }
+        
+        // Individual entries per author
+        var xauhors = interview[0].getElementsByTagName("authors");
+        var xa = xauhors[0].getElementsByTagName("author");
+        for (l=0; l<xa.length; l++) {
+            var author_name = xa[l].getElementsByTagName("author_name")[0].childNodes[0].nodeValue;
+            var author_web = xa[l].getElementsByTagName("author_web")[0].childNodes[0].nodeValue;
+            paper_text += "<span class=author><a href=" + author_web + ">" + author_name + "</a></span>";
+            
+            if (l<xa.length-2) {
+                paper_text += ", ";
+            } else if (l==xa.length-2) {
+                paper_text += ", and ";
+            }
+        }
+        paper_text += "</p>";
+    }
+    else {
+        paper_text += "";
+    }
         
     cell_middle += "<div class=table_center><p class=title>" +
     title +
