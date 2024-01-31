@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
 
+    
+<episode>
+<date>2024/02/01</date>
+<title>Fiat Lux: Conversations on science and faith at the Vatican Observatory</title>
+<description>The Open Universe goes on tour to Castel Gandolfo, Italy, home of the Vatican Observatory, where we chat with resident astronomer Richard D'Souza on astronomy, faith, and early efforts to map the Milky Way.</description>
+<papers>
+    <paper>
+        <paper_title>An interview with</paper_title>
+        <paper_link>https://www.vaticanobservatory.va/en/who-are-we/staff/rev-richard-a-dsouza-s-j</paper_link>
+        <authors>
+            <author>
+                <author_name>Richard D’Souza</author_name>
+               <author_web>https://www.vaticanobservatory.va/en/who-are-we/staff/rev-richard-a-dsouza-s-j</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep8.mp3</download>
+<related>
+    <item>
+        <item_text>Vatican Observatory</item_text>
+        <item_link>https://www.vaticanobservatory.org/</item_link>
+    </item>
+    <item>
+        <item_text>Carte du Ciel</item_text>
+        <item_link>https://en.wikipedia.org/wiki/Carte_du_Ciel</item_link>
+    </item>
+    <item>
+        <item_text>Angelo Secchi</item_text>
+      <item_link>https://www.americamagazine.org/arts-culture/2018/07/26/angelo-secchi-jesuit-father-astrophysics</item_link>
+    </item>
+</related>
+</episode>
+
 
 <episode>
 <date>2023/09/28</date>
