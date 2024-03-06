@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog>
 
+<episode>
+<date>2024/03/06</date>
+<title>The JWST Revolution, Part 1: A New Space Telescope</title>
+<description>Christmas Day, 2021 offered a once-in-a-lifetime present to the astronomical community: JWST, a revolutionary new space telescope with the potential to transform our understanding of the cosmos. But with every new innovation, there is always room for plenty of surprises… In our new miniseries on the Open Universe Podcast, we delve into the world of JWST and the incredible observations it’s made in just the first year of its operations – some, perhaps, with the potential to break our understanding of the universe.</description>
+<papers>
+    <paper>
+        <paper_title>Overview of James Webb Space Telescope and NIRCam's role</paper_title>
+<paper_link>https://www.researchgate.net/publication/228633195_Overview_of_James_Webb_Space_Telescope_and_NIRCam's_role</paper_link>
+        <authors>
+            <author>
+                <author_name>Marcia Rieke</author_name>
+                <author_web>https://www.as.arizona.edu/people/faculty/marcia-j-rieke</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep9.mp3</download>
+<related>
+    <item>
+        <item_text>Webb Space Telescope</item_text>
+        <item_link>https://webb.nasa.gov/</item_link>
+    </item>
+    <item>
+        <item_text>JWST Deployment</item_text>
+        <item_link>https://webb.nasa.gov/content/webbLaunch/deploymentExplorer.html</item_link>
+    </item>
+    <item>
+        <item_text>M. Rieke: My NASA Experience</item_text>
+       <item_link>https://explorer1.jpl.nasa.gov/stories/marcia-rieke/</item_link>
+    </item>
+</related>
+</episode>
     
 <episode>
 <date>2024/02/01</date>
