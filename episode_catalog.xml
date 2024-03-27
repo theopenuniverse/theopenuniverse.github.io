@@ -2,6 +2,39 @@
 <catalog>
 
 <episode>
+<date>2024/03/27</date>
+<title>The JWST Revolution, Part 2: Remarkably Bright Galaxies at Cosmic Dawn</title>
+<description>It’s July 2022, and JWST is now in full swing – its early images already captivating people the world over. In all this excitement, however, a team of astronomers is struck by one thing in particular. Two beacons of light, shining out from the very depths of time: extraordinarily bright galaxies in existence so early as to defy all expectations. But how could galaxies so big exist so soon after the birth of the cosmos? Have we misunderstood galaxy formation all along?</description>
+<papers>
+    <paper>
+        <paper_title>Two Remarkably Luminous Galaxy Candidates at z ≈ 10-12 Revealed by JWST</paper_title>
+        <paper_link>https://iopscience.iop.org/article/10.3847/2041-8213/ac9b22</paper_link>
+        <authors>
+            <author>
+                <author_name>Rohan Naidu</author_name>
+                <author_web>https://rohannaidu.github.io/</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep10.mp3</download>
+<related>
+    <item>
+        <item_text>Cosmic Evolution Early Release Science (CEERS)</item_text>
+        <item_link>https://ceers.github.io/</item_link>
+    </item>
+    <item>
+        <item_text>Grism Lens-Amplified Survey from Space</item_text>
+        <item_link>https://glass.astro.ucla.edu/ers/</item_link>
+    </item>
+    <item>
+        <item_text>Galaxies at Cosmic Dawn</item_text>
+       <item_link>https://cosmicdawn.dk/news/galaxies-at-cosmic-dawn/</item_link>
+    </item>
+</related>
+</episode>
+    
+<episode>
 <date>2024/03/06</date>
 <title>The JWST Revolution, Part 1: A New Space Telescope</title>
 <description>Christmas Day, 2021 offered a once-in-a-lifetime present to the astronomical community: JWST, a revolutionary new space telescope with the potential to transform our understanding of the cosmos. But with every new innovation, there is always room for plenty of surprises… In our new miniseries on the Open Universe Podcast, we delve into the world of JWST and the incredible observations it’s made in just the first year of its operations – some, perhaps, with the potential to break our understanding of the universe.</description>
