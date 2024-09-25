@@ -2,6 +2,40 @@
 <catalog>
 
 <episode>
+<date>2024/09/25</date>
+<title>The JWST Revolution, Part 3: Is the Universe broken?</title>
+<description>Our exploration continues into the world of CEERS, one of the major flagship surveys of the early JWST data. Now, astronomers are confronted by yet more first generation galaxies that seem to defy scientific consensus -- a group of objects so luminous that their formation should not have been possible based on standard theories of galaxy formation. So, is the Universe truly broken? Or is it simply playing a cruel trick on our ability to locate how far these galaxies actually are....?</description>
+<papers>
+    <paper>
+        <paper_title>Confirmation and refutation of very luminous galaxies in the early Universe</paper_title>
+        <paper_link>https://www.nature.com/articles/s41586-023-06521-7</paper_link>
+        <authors>
+            <author>
+                <author_name>Pablo Arrabal Haro</author_name>
+                <author_web>https://parrabalharo.com/</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep11.mp3</download>
+<related>
+    <item>
+        <item_text>Gas emission spectra</item_text>
+        <item_link>https://www.youtube.com/watch?v=m69GjvN3n0M</item_link>
+    </item>
+    <item>
+        <item_text>Fitting a galaxy SED</item_text>
+        <item_link>https://prospect.readthedocs.io/en/stable/demo.html</item_link>
+    </item>
+    <item>
+        <item_text>STARFORGE simulation of stars forming</item_text>
+       <item_link>https://www.youtube.com/watch?v=8nCW7419FyU</item_link>
+    </item>
+</related>
+</episode>
+
+    
+<episode>
 <date>2024/03/27</date>
 <title>The JWST Revolution, Part 2: Remarkably Bright Galaxies at Cosmic Dawn</title>
 <description>It’s July 2022, and JWST is now in full swing – its early images already captivating people the world over. In all this excitement, however, a team of astronomers is struck by one thing in particular. Two beacons of light, shining out from the very depths of time: extraordinarily bright galaxies in existence so early as to defy all expectations. But how could galaxies so big exist so soon after the birth of the cosmos? Have we misunderstood galaxy formation all along?</description>
