@@ -2,6 +2,40 @@
 <catalog>
 
 <episode>
+<date>2024/11/13</date>
+<title>Is the Universe slowing down?</title>
+<description>For 14 billion years, our Universe has been expanding. For 5 billion years, its expansion has been accelerating. But now... is our Universe slowing down again?</description>
+<papers>
+    <paper>
+        <paper_title>DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations</paper_title>
+        <paper_link>https://arxiv.org/abs/2404.03002</paper_link>
+        <authors>
+            <author>
+                <author_name>DESI Collaboration</author_name>
+                <author_web>https://desi.lbl.gov/trac/wiki/PublicPages/Contacts</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep12.mp3</download>
+<related>
+    <item>
+        <item_text>Dark Energy Spectroscopic Instrument</item_text>
+        <item_link>https://www.desi.lbl.gov/</item_link>
+    </item>
+    <item>
+        <item_text>Baryon Acoustic Oscillations</item_text>
+        <item_link>https://www.youtube.com/watch?v=jpXuYc-wzk4</item_link>
+    </item>
+    <item>
+        <item_text>Legacy Survey viewer</item_text>
+       <item_link>https://www.legacysurvey.org/viewer</item_link>
+    </item>
+</related>
+</episode>
+
+    
+<episode>
 <date>2024/09/25</date>
 <title>The JWST Revolution, Part 3: Is the Universe broken?</title>
 <description>Our exploration continues into the world of CEERS, one of the major flagship surveys of the early JWST data. Now, astronomers are confronted by yet more first generation galaxies that seem to defy scientific consensus -- a group of objects so luminous that their formation should not have been possible based on standard theories of galaxy formation. So, is the Universe truly broken? Or is it simply playing a cruel trick on our ability to locate how far these galaxies actually are....?</description>
