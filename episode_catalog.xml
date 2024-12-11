@@ -2,6 +2,39 @@
 <catalog>
 
 <episode>
+<date>2024/12/11</date>
+<title>Minding the heavens: Sweeping the night sky with Caroline Herschel</title>
+<description>It is August 1st, 1786, and a starry haze zips through the night sky. As celestial phenomena go, this is just a fleeting event - but not one that evades Caroline Herschel’s Newtonian “sweeper”. Although she doesn’t know it yet, Herschel will soon be renowned as the great discoverer of comets, and one of the most eminent astronomers of her generation. Journey back in time with The Open Universe and meet the great Minder of the Heavens!</description>
+<papers>
+    <paper>
+        <paper_title>An Account of a New Comet. In a Letter from Miss Caroline Herschel to Charles Blagden, M. D. Sec. R. S.</paper_title>
+        <paper_link>https://www.jstor.org/stable/106702</paper_link>
+        <authors>
+            <author>
+                <author_name>Caroline Herschel</author_name>
+                <author_web>https://en.wikipedia.org/wiki/Caroline_Herschel</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep13.mp3</download>
+<related>
+    <item>
+        <item_text>Gresham College Lecture on Caroline Herschel</item_text>
+        <item_link>https://www.gresham.ac.uk/watch-now/caroline-herschel</item_link>
+    </item>
+    <item>
+        <item_text>Caroline Herschel’s Memoir</item_text>
+        <item_link>https://digital.library.upenn.edu/women/herschel/memoir/memoir.html</item_link>
+    </item>
+    <item>
+        <item_text>Newtonian Sweeper</item_text>
+       <item_link>https://royalsocietypublishing.org/doi/abs/10.1098/rsnr.1988.0012</item_link>
+    </item>
+</related>
+</episode>
+    
+<episode>
 <date>2024/11/13</date>
 <title>Is the Universe slowing down?</title>
 <description>For 14 billion years, our Universe has been expanding. For 5 billion years, its expansion has been accelerating. But now... is our Universe slowing down again?</description>
