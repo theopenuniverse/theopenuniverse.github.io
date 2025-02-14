@@ -2,6 +2,40 @@
 <catalog>
 
 <episode>
+<date>2025/02/14</date>
+<title>Could the movie Armageddon happen in real life?</title>
+<description>In 1998, “NASA” sent a team of rag-tag oil drillers to an asteroid hurtling towards Earth, averting an Armageddon. 24 years later, NASA is at it again – but this time, with a somewhat more delicate approach. In September 2022, the DART mission collided with Dimorphos, an asteroid in a binary orbit with its larger companion, Didymos, perturbing its trajectory just enough to show how future threats may be thwarted this way. In this episode of The Open Universe podcast, we revisit this amazing feat of engineering and space technology – and perhaps what the odds are for a blockbuster event worthy of Hollywood to occur in real life!</description>
+<papers>
+    <paper>
+        <paper_title>Successful kinetic impact into an asteroid for planetary defence</paper_title>
+        <paper_link>https://www.nature.com/articles/s41586-023-05810-5</paper_link>
+        <authors>
+            <author>
+                <author_name>R. Terik Daly</author_name>
+                <author_web>https://www.jhuapl.edu/about/people/terik-daly</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep14.mp3</download>
+<related>
+    <item>
+        <item_text>DART Mission page</item_text>
+        <item_link>https://dart.jhuapl.edu/</item_link>
+    </item>
+    <item>
+        <item_text>Dimorphos impact live broadcast</item_text>
+        <item_link>https://www.youtube.com/watch?v=4RA8Tfa6Sck</item_link>
+    </item>
+    <item>
+        <item_text>Torino scale</item_text>
+       <item_link>https://en.wikipedia.org/wiki/Torino_scale</item_link>
+    </item>
+</related>
+</episode>
+
+    
+<episode>
 <date>2024/12/11</date>
 <title>Minding the heavens: Sweeping the night sky with Caroline Herschel</title>
 <description>It is August 1st, 1786, and a starry haze zips through the night sky. As celestial phenomena go, this is just a fleeting event - but not one that evades Caroline Herschel’s Newtonian “sweeper”. Although she doesn’t know it yet, Herschel will soon be renowned as the great discoverer of comets, and one of the most eminent astronomers of her generation. Journey back in time with The Open Universe and meet the great Minder of the Heavens!</description>
