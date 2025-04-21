@@ -2,6 +2,39 @@
 <catalog>
 
 <episode>
+<date>2025/04/21</date>
+<title>Riding the solar wind: Eugene Parker’s “magnetic” legacy</title>
+<description>On December 24, 2024, NASA’s Parker Solar Probe shattered records: becoming simultaneously the closest a human-made object has ever approached the Sun, and, travelling at 430,000 mph, the fastest object ever built on Earth. This was the culmination of a 70-year long legacy of its namesake, Eugene Parker, who in 1958 transformed our understanding of the Sun from a static ball of fire to a dynamic, magnetic entity capable of ejecting extremely hot winds into vast reaches of space. In this episode, we revisit Parker’s seminal paper and its impact on exploratory missions of the Solar System for decades after.</description>
+<papers>
+    <paper>
+        <paper_title>Dynamics of the Interplanetary Gas and Magnetic Fields.</paper_title>
+        <paper_link>https://articles.adsabs.harvard.edu/pdf/1958ApJ...128..664P</paper_link>
+        <authors>
+            <author>
+                <author_name>Eugene Parker</author_name>
+                <author_web>https://en.wikipedia.org/wiki/Eugene_Parker</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep15.mp3</download>
+<related>
+    <item>
+        <item_text>A commentary on Eugene Parker</item_text>
+        <item_link>https://manyworlds.space/2022/04/12/nature-has-become-more-beautiful-physicist-eugene-parker-and-his-life-unlocking-secrets-of-the-sun/</item_link>
+    </item>
+    <item>
+        <item_text>Parker Solar Probe visual resources</item_text>
+        <item_link>https://svs.gsfc.nasa.gov/13003</item_link>
+    </item>
+    <item>
+        <item_text>The martial art of scientific publication</item_text>
+       <item_link>https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/97EO00251</item_link>
+    </item>
+</related>
+</episode>
+    
+<episode>
 <date>2025/02/14</date>
 <title>Could the movie Armageddon happen in real life?</title>
 <description>In 1998, “NASA” sent a team of rag-tag oil drillers to an asteroid hurtling towards Earth, averting an Armageddon. 24 years later, NASA is at it again – but this time, with a somewhat more delicate approach. In September 2022, the DART mission collided with Dimorphos, an asteroid in a binary orbit with its larger companion, Didymos, perturbing its trajectory just enough to show how future threats may be thwarted this way. In this episode of The Open Universe podcast, we revisit this amazing feat of engineering and space technology – and perhaps what the odds are for a blockbuster event worthy of Hollywood to occur in real life!</description>
