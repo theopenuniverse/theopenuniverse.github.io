@@ -22,7 +22,7 @@
 <related>
     <item>
         <item_text>Bullseye galaxy in Legacy Survey</item_text>
-        <item_link>https://www.legacysurvey.org/viewer?ra=2.4140&dec=7.0804&layer=ls-dr9&zoom=15</item_link>
+        <item_link>https://www.legacysurvey.org/viewer?ra=2.4140&amp;dec=7.0804&amp;layer=ls-dr9&amp;zoom=15</item_link>
     </item>
     <item>
         <item_text>The Dragonfly Telephoto Array</item_text>
