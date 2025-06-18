@@ -2,6 +2,40 @@
 <catalog>
 
 <episode>
+<date>2025/06/18</date>
+<title>The LEDA of the Rings</title>
+<description>Long ago, in a time before the age of Men, nine rings were made… when the galaxy LEDA 1313424 was smashed into by its neighbour in a near head-on collision. The result was a cosmic spectacle: a galaxy surrounded by nine concentric rings of starlight acting as a memoir of this great interstellar battle. In this episode, we take a closer look at the “Bullseye”, the most extreme “collisional” ring galaxy we have ever seen, and discuss what this might mean for the formation of galaxies in our Universe. 
+</description>
+<papers>
+    <paper>
+        <paper_title>The Bullseye: HST, Keck/KCWI, and Dragonfly Characterization of a Giant Nine-ringed Galaxy</paper_title>
+        <paper_link>https://iopscience.iop.org/article/10.3847/2041-8213/ad9f5c</paper_link>
+        <authors>
+            <author>
+                <author_name>Imad Pasha</author_name>
+                <author_web>https://imad-pasha.github.io/</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep16.mp3</download>
+<related>
+    <item>
+        <item_text>Bullseye galaxy in Legacy Survey</item_text>
+        <item_link>https://www.legacysurvey.org/viewer?ra=2.4140&dec=7.0804&layer=ls-dr9&zoom=15</item_link>
+    </item>
+    <item>
+        <item_text>The Dragonfly Telephoto Array</item_text>
+        <item_link>https://www.dragonflytelescope.org/</item_link>
+    </item>
+    <item>
+        <item_text>Collisional Ring Galaxies</item_text>
+       <item_link>https://ned.ipac.caltech.edu/level5/Sept01/Appleton/frames.html</item_link>
+    </item>
+</related>
+</episode>
+    
+<episode>
 <date>2025/04/21</date>
 <title>Riding the solar wind: Eugene Parker’s “magnetic” legacy</title>
 <description>On December 24, 2024, NASA’s Parker Solar Probe shattered records: becoming simultaneously the closest a human-made object has ever approached the Sun, and, travelling at 430,000 mph, the fastest object ever built on Earth. This was the culmination of a 70-year long legacy of its namesake, Eugene Parker, who in 1958 transformed our understanding of the Sun from a static ball of fire to a dynamic, magnetic entity capable of ejecting extremely hot winds into vast reaches of space. In this episode, we revisit Parker’s seminal paper and its impact on exploratory missions of the Solar System for decades after.</description>
