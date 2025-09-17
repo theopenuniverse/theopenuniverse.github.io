@@ -2,6 +2,40 @@
 <catalog>
 
 <episode>
+<date>2025/09/17</date>
+<title>Smells Like Alien Spirit</title>
+<description>What connects garlic, truffles, and the smell of the sea? Believe it or not, but the compounds that unify all three – known as dimethyl sulfide (DMS) and dimethyl disulfide (DMDS) – are signatures not just familiar of earthly experiences, but potentially of otherworldly bioactivity! In this episode of The Open Universe, we dive into a claimed discovery of DMS and DMDS in the atmosphere of the exoplanet K2-18b – a discovery which, if true, could point to the existence of an alien world teeming with vast oceans of biological activity, and perhaps the most incredible hint of life outside our Solar System yet!
+</description>
+<papers>
+    <paper>
+        <paper_title>New Constraints on DMS and DMDS in the Atmosphere of K2-18 b from JWST MIRI</paper_title>
+        <paper_link>https://iopscience.iop.org/article/10.3847/2041-8213/adc1c8</paper_link>
+        <authors>
+            <author>
+                <author_name>Nikku Madhusudhan</author_name>
+                <author_web>https://people.ast.cam.ac.uk/~nmadhu/Nikku_Madhusudhan/Home.html</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep17.mp3</download>
+<related>
+    <item>
+        <item_text>The role of DMS on Earth</item_text>
+       <item_link>https://www.whoi.edu/oceanus/feature/dms-the-climate-gas-youve-never-heard-of/</item_link>
+    </item>
+    <item>
+        <item_text>Transmission spectroscopy</item_text>
+        <item_link>https://www.youtube.com/watch?v=Ppc1N3k8pYY</item_link>
+    </item>
+    <item>
+        <item_text>Kepler / K2 mission</item_text>
+        <item_link>https://science.nasa.gov/mission/kepler/</item_link>
+    </item>
+</related>
+</episode>
+    
+<episode>
 <date>2025/06/18</date>
 <title>The LEDA of the Rings</title>
 <description>Long ago, in a time before the age of Men, nine rings were made… when the galaxy LEDA 1313424 was smashed into by its neighbour in a near head-on collision. The result was a cosmic spectacle: a galaxy surrounded by nine concentric rings of starlight acting as a memoir of this great interstellar battle. In this episode, we take a closer look at the “Bullseye”, the most extreme “collisional” ring galaxy we have ever seen, and discuss what this might mean for the formation of galaxies in our Universe. 
