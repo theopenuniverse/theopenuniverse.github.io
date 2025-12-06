@@ -2,6 +2,36 @@
 <catalog>
 
 <episode>
+<date>12/05/2025</date>
+<title>The JWST Revolution Part 4: Is the Universe Still Broken?</title>
+<description>A year on from our last foray into the primordial cosmos, The Open Universe revisits this most consequential of questions: do the JWST’s ground-breaking observations break the Universe itself? This is a question not to be treated lightly – so it’s just as well that in this episode, we’re joined by two experts: an observer, Sandro Tacchella (Cambridge), and a theorist, Julian Munoz (U. Texas Austin) in a cross-continental cross-examination of the latest evidence. (Recorded in August 2025)
+</description>
+<interview>
+    <authors>
+       <author>
+            <author_name>Julian Munoz</author_name>
+            <author_web>https://sites.utexas.edu/julianmunoz/</author_web>
+        </author>
+        <author>
+            <author_name>Sandro Tacchella</author_name>
+            <author_web>https://www.tacchella.space/</author_web>
+        </author>
+    </authors>
+</interview>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep18_v2.mp3</download>
+<related>
+    <item>
+        <item_text>JADES interactive viewer</item_text>
+        <item_link>https://jades-survey.github.io/viewer/</item_link>
+    </item>
+    <item>
+        <item_text>Cosmic Frontier Center</item_text>
+        <item_link>https://astronomy.utexas.edu/cosmic-frontier-center</item_link>
+    </item>
+</related>
+</episode>
+    
+<episode>
 <date>2025/09/17</date>
 <title>Smells Like Alien Spirit</title>
 <description>What connects garlic, truffles, and the smell of the sea? Believe it or not, but the compounds that unify all three – known as dimethyl sulfide (DMS) and dimethyl disulfide (DMDS) – are signatures not just familiar of earthly experiences, but potentially of otherworldly bioactivity! In this episode of The Open Universe, we dive into a claimed discovery of DMS and DMDS in the atmosphere of the exoplanet K2-18b – a discovery which, if true, could point to the existence of an alien world teeming with vast oceans of biological activity, and perhaps the most incredible hint of life outside our Solar System yet!
