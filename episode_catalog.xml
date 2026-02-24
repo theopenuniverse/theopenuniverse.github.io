@@ -2,6 +2,51 @@
 <catalog>
 
 <episode>
+<date>02/24/2026</date>
+<title>The Curves That Never Fall: Rubin &amp; Ford’s Galactic Revolution
+</title>
+<description>
+When Rubin and Ford took their aim,<br>
+At stars tracing a galaxy’s frame,<br>
+Each region was speeding,<br>
+Past what mass was conceding,<br>
+They found the matter &mdash; missing by name.
+</description>
+<papers>
+    <paper>
+        <paper_title>Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions</paper_title>
+        <paper_link>https://ui.adsabs.harvard.edu/link_gateway/1970ApJ...159..379R/ADS_PDF</paper_link>
+        <authors>
+            <author>
+                <author_name>Vera Rubin</author_name>
+                <author_web>https://en.wikipedia.org/wiki/Vera_Rubin</author_web>
+            </author>
+            <author>
+                <author_name>Kent Ford</author_name>
+                <author_web>https://en.wikipedia.org/wiki/Kent_Ford_(astronomer)</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep19.mp3</download>
+<related>
+    <item>
+        <item_text>An Interesting Voyage (Vera Rubin’s Memoir)</item_text>
+        <item_link>https://www.annualreviews.org/content/journals/10.1146/annurev-astro-081710-102545</item_link>
+    </item>
+    <item>
+        <item_text>Oral History Interview with Vera Rubin (April 3 1989)</item_text>
+        <item_link>https://repository.aip.org/node/129077</item_link>
+    </item>
+    <item>
+        <item_text>Memories of Vera Rubin</item_text>
+       <item_link>https://docs.google.com/document/u/1/d/1H5zUk4CKxbru6pJTSIEPJsdJG2mG0hvGqplPIr5j7TI/mobilebasic</item_link>
+    </item>
+</related>
+</episode>
+
+    
+<episode>
 <date>12/05/2025</date>
 <title>The JWST Revolution Part 4: Is the Universe Still Broken?</title>
 <description>A year on from our last foray into the primordial cosmos, The Open Universe revisits this most consequential of questions: do the JWST’s ground-breaking observations break the Universe itself? This is a question not to be treated lightly – so it’s just as well that in this episode, we’re joined by two experts: an observer, Sandro Tacchella (Cambridge), and a theorist, Julian Munoz (U. Texas Austin) in a cross-continental cross-examination of the latest evidence. (Recorded in August 2025)
