@@ -2,6 +2,40 @@
 <catalog>
 
 <episode>
+<date>06/12/2026</date>
+<title>Now Showing: The Universe in Motion</title>
+<description>The Universe is about to get a whole lot more crowded. For the first time in history, we have built a telescope so powerful that it will provide a comprehensive census of the cosmos that far exceeds the number of human beings on Earth. This is the LSST survey at the Vera Rubin Observatory - the home of the most astonishing high-definition camera ever constructed, tasked with producing a 10-year long movie of the night sky. Whether it’s hunting for Planet 9, detecting potentially fatal near-Earth asteroids, or revealing to us the mysterious nature of dark matter and dark energy, LSST will revolutionise astronomy unlike anything that’s come before!</description>
+<papers>
+    <paper>
+        <paper_title>LSST: From Science Drivers to Reference Design and Anticipated Data Products</paper_title>
+        <paper_link>https://iopscience.iop.org/article/10.3847/1538-4357/ab042c</paper_link>
+        <authors>
+            <author>
+                <author_name>Zeljko Ivezic</author_name>
+                <author_web>https://faculty.washington.edu/ivezic/</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/tou_ep020_final.mp3</download>
+<related>
+    <item>
+        <item_text>NSF–DOE Vera C. Rubin Observatory</item_text>
+        <item_link>https://rubinobservatory.org/</item_link>
+    </item>
+    <item>
+        <item_text>Rubin Observatory construction videos</item_text>
+        <item_link>https://rubin.canto.com/v/Resources/album/RTB42?display=curatedView&viewIndex=2&gSortingForward=false&gOrderProp=createDate&referenceTo=&from=thumbnail</item_link>
+    </item>
+    <item>
+        <item_text>LSST Skyviewer</item_text>
+       <item_link>https://skyviewer.app/</item_link>
+    </item>
+</related>
+</episode>
+
+    
+<episode>
 <date>02/24/2026</date>
 <title>The Curves That Never Fall: Rubin &amp; Ford’s Galactic Revolution
 </title>
