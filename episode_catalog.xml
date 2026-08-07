@@ -2,6 +2,40 @@
 <catalog>
 
 <episode>
+<date>08/07/2026</date>
+<title>The Moon: A Celestial Thief of Time</title>
+<description>Every day on Earth, the day is getting longer. But who – or what – is stealing our time? And how do we even know? Surprisingly, it is the 3,000 year history of eclipse records, from Babylonian clay tablets to medieval monk scriptures, that offer us a clue. In this episode, we explore eclipse observations spanning millennia, what they’ve taught us about the nature of timekeeping, and how our relationship with the Moon is growing ever more... distant.</description>
+<papers>
+    <paper>
+        <paper_title>Historical eclipses and Earth's rotation</paper_title>
+        <paper_link>https://academic.oup.com/astrogeo/article/44/2/2.22/278981</paper_link>
+        <authors>
+            <author>
+                <author_name>F. Richard Stephenson </author_name>
+                <author_web>https://en.wikipedia.org/wiki/F._Richard_Stephenson</author_web>
+            </author>
+        </authors>
+    </paper>
+</papers>
+<download>https://traffic.libsyn.com/forcedn/5103f8e5-5781-488a-afff-011281dc4cb9/theopenuniverse_ep21.mp3</download>
+<related>
+    <item>
+        <item_text>Eclipses (NASA Hub)</item_text>
+        <item_link>https://science.nasa.gov/eclipses/</item_link>
+    </item>
+    <item>
+        <item_text>6 Ways Cultures Have Explained Eclipses</item_text>
+        <item_link>https://www.britannica.com/list/the-sun-was-eaten-6-ways-cultures-have-explained-eclipses</item_link>
+    </item>
+    <item>
+        <item_text>Length of the Day</item_text>
+       <item_link>https://en.wikipedia.org/wiki/%CE%94T_%28timekeeping%29</item_link>
+    </item>
+</related>
+</episode>
+
+    
+<episode>
 <date>06/12/2026</date>
 <title>Now Showing: The Universe in Motion</title>
 <description>The Universe is about to get a whole lot more crowded. For the first time in history, we have built a telescope so powerful that it will provide a comprehensive census of the cosmos that far exceeds the number of human beings on Earth. This is the LSST survey at the Vera Rubin Observatory - the home of the most astonishing high-definition camera ever constructed, tasked with producing a 10-year long movie of the night sky. Whether it’s hunting for Planet 9, detecting potentially fatal near-Earth asteroids, or revealing to us the mysterious nature of dark matter and dark energy, LSST will revolutionise astronomy unlike anything that’s come before!</description>
